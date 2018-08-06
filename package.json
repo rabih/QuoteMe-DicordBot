@@ -1,0 +1,11 @@
+{
+  "name": "xda-bot",
+  "version": "1.0.0",
+  "description": "An xda simulator",
+  "main": "bot.js",
+  "author": "somcom3x",
+  "dependencies": {
+    "discord.io": "^2.5.3",
+    "winston": "^3.0.0"
+  }
+}
