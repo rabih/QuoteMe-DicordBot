@@ -1,5 +1,5 @@
 {
-  "name": "xda-bot",
+  "name": "QuoteMe",
   "version": "1.0.0",
   "description": "An xda simulator",
   "main": "bot.js",
